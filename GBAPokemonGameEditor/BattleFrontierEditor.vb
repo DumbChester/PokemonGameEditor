@@ -32,7 +32,7 @@ Public Class BattleFrontierEditor
 
         Else
             MsgBox("This ROM is not supported!!!")
-            End
+            Exit sub
         End If
     End Sub
 
